@@ -1,1 +1,1 @@
-dokploy:latest
+dokploy/dokploy:v0.25.6
